@@ -13,7 +13,7 @@ This application is written using Python 3.10.
 ## Running the application
 DirPath/SmartFlaskAPP>python run.py
 
-## Unit Testing and Code Coverage
+### Unit Testing and Code Coverage
 Use pytest to execute unit-tests
 pytest --cov=main --junitxml=./xmlReport/output.xml
 python -m coverage xml
